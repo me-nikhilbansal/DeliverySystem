@@ -1,0 +1,4 @@
+if(!jTextArea1.getText().equals("") && !jTextArea2.getText().equals("") && !jTextField1.getText().equals("") && !jTextField2.getText().equals("") && !jTextField3.getText().equals("") && 
+                !jTextField5.getText().equals("") && jComboBox1.getSelectedIndex()>0 && jComboBox2.getSelectedIndex()>0 && !jDateChooser1.getDate().equals(null) && !jDateChooser2.getDate().equals(null) && 
+                jComboBox3.getSelectedIndex()>0 && jComboBox4.getSelectedIndex()>0 && jComboBox6.getSelectedIndex()>0 && !jSpinner1.getValue().toString().equals("0")
+                && (jRadioButton1.isSelected()==true || jRadioButton2.isSelected()==true))
